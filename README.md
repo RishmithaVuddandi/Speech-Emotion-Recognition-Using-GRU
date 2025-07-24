@@ -1,0 +1,1 @@
+Implemented Gated Recurrent Units (GRU) for Speech Emotion Recognition (SER). We preprocessed the audio data, extracted the features, and trained the GRU model to classify emotions such as happiness, sadness, and anger. The project resulted in a high classification accuracy, demonstrating the effectiveness of GRU in SER tasks.
